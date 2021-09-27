@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @halilkocasst
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-halilkocasst/halilkocasst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @halilkoca
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on libraries
+- 📫 How to reach me 
